@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Delicate, Dainty, Simple Pleasures]]></title>
         <description><![CDATA[Delicate, Dainty, Simple Pleasures]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thepetitemuse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 20:09:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 20:25:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thepetitemuse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Be-Mused]]></title>
-            <description><![CDATA[<article><h1>Be-Mused</h1><p>Put On some Jewelry and Live a Little</p></article>]]></description>
-            <link>undefinedbe-mused/index.html</link>
+            <title><![CDATA[Put On some Jewelry and Live a Little]]></title>
+            <description><![CDATA[<h1>Put On some Jewelry and Live a Little</h1>]]></description>
+            <link>https://thegrid.ai/thepetitemuse/be-mused/index.html</link>
             <guid isPermaLink="false">584e1f94-f1c6-4f3d-a214-c65c5672c325</guid>
-            <pubDate>Mon, 14 Dec 2015 20:09:08 GMT</pubDate>
+            <pubDate>Mon, 14 Dec 2015 20:24:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
