@@ -1,0 +1,28 @@
+name: ThePetiteMuse
+favicon: null
+layout_spectrum: 0.601478464435786
+typography_spectrum: 0.9409191175363958
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5617455753963441
+  lightness: 0.8836642918176949
+  saturation: 0.1247536891605705
+  rhythmicContrast: 0.6313853135798126
+purpose: []
